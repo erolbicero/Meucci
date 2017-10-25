@@ -37,6 +37,7 @@ Depends:
     quadprog,
     kernlab,
     nloptr,
+    PerformanceAnalytics,
 Suggests:
     limSolve,
     Matrix,
@@ -51,7 +52,7 @@ Suggests:
     signal,
     fExtremes,
     QZ,
-    PerformanceAnalytics
 License: GPL
 URL: http://r-forge.r-project.org/projects/returnanalytics/
 Copyright: (c) 2014
+RoxygenNote: 6.0.1
